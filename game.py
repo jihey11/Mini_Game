@@ -1,3 +1,13 @@
+#git init
+#git add .
+#git commit -m "커밋 작성"
+#git remote add origin https://github.com/jihey11/Mini_Game.git
+#git branch -M main
+#git push -u origin main
+
+
+
+
 import tkinter
 import random
 
